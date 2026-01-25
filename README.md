@@ -32,4 +32,4 @@ imgs/            # Produktbilder (1.png, 2.png, ...)
 ## Typen
 
 - `Net` - Netzwerk-Komponenten
-- `Elec` - Elektro-Komponenten (falls benötigt)
+- `230` - Elektro-Komponenten
