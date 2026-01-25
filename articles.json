@@ -1,0 +1,128 @@
+  [
+    {
+      "typ": "Net",
+      "bild": "1.png",
+      "hersteller": "Telegärtner",
+      "name": "Anschlussdose AMJ45 8/8 K Up/50 Cat.6A alpinweiß",
+      "artikelnummer": "100000007",
+      "ve": "5 Stk",
+      "link": "https://www.telegaertner.com/artikel/onlinekatalog-datavoice-office/anschlussdosen/lsa/bruestungskanal-designfaehig/anschlussdose-amj45-8-8-k-up-50-cat6a-alpinweiss-100000007"
+    },
+    {
+      "typ": "Net",
+      "bild": "2.png",
+      "hersteller": "Telegärtner",
+      "name": "Anschlussdose AMJ45 8 K Up/50 Cat.6A alpinweiß",
+      "artikelnummer": "100022959",
+      "ve": "5 Stk",
+      "link": "https://www.telegaertner.com/artikel/onlinekatalog-datavoice-office/anschlussdosen/lsa/bruestungskanal-designfaehig/anschlussdose-amj45-8-k-up-50-cat6a-alpinweiss-100022959"
+    },
+    {
+      "typ": "Net",
+      "bild": "3.png",
+      "hersteller": "Telegärtner",
+      "name": "Aufputz-Set alpinweiß",
+      "artikelnummer": "100021398",
+      "ve": "5 Stk",
+      "link": "https://www.telegaertner.com/artikel/onlinekatalog-datavoice-office/anschlussdosen/zubehoer/aufputz-sets/aufputz-set-alpinweiss-100021398"
+    },
+    {
+      "typ": "Net",
+      "bild": "4.png",
+      "hersteller": "Aginode",
+      "name": "LANmark-6A ULTIM",
+      "artikelnummer": "N420.960",
+      "ve": "24 Stk",
+      "link": "https://www.aginode.net/de/products/data-network-solutions/lan-systeme-kupfer/connectors/lanmark-6a-ultim"
+    },
+    {
+      "typ": "Net",
+      "bild": "5.png",
+      "hersteller": "Aginode",
+      "name": "Patch Panel 24 Snap-In Fixed White",
+      "artikelnummer": "N521.661",
+      "ve": "1 Stk",
+      "link": "https://www.aginode.net/products/data-network-solutions/copper-lan-systems/tiaoxianbanhetiaoxiandaoyinqi/modular-patch-panels-snap-connectors/patch-panel-24-snap-fixed-white"
+    },
+    {
+      "typ": "Net",
+      "bild": "6.png",
+      "hersteller": "Aginode",
+      "name": "Red clip for LANmark Snap-In connector",
+      "artikelnummer": "N429.625",
+      "ve": "24 Stk",
+      "link": "https://www.aginode.net/products/data-network-solutions/copper-lan-systems/tools-accessories/keystone-clips/red-clip-lanmark-snap-connector-keystone-format-keystone-height-200-205-mm-wall-thickness-15-175-mm"
+    },
+    {
+      "typ": "Net",
+      "bild": "7.png",
+      "hersteller": "Rittal",
+      "name": "Rangierpanel mit Stahlbügeln",
+      "artikelnummer": "DK 7257035",
+      "ve": "1 Stk",
+      "link": "https://www.rittal.com/at-de_AT/products/PG20231215ZUB101/PG20240408ZUB101/PG20240408ZUB103/PRO13560?variantId=7257035"
+    },
+    {
+      "typ": "Net",
+      "bild": "8.png",
+      "hersteller": "Rittal",
+      "name": "Kabelführungsbügel HxT (65x125mm)",
+      "artikelnummer": "DK 7111000",
+      "ve": "10 Stk",
+      "link": "https://www.rittal.com/at-de_AT/products/PG20231215ZUB101/PG20240405ZUB003/PG20240405ZUB008/PRO13521?variantId=7111000"
+    },
+    {
+      "typ": "Net",
+      "bild": "9.png",
+      "hersteller": "Rittal",
+      "name": "Befestigungsschrauben M5x16 (TX25)",
+      "artikelnummer": "DK 7094130",
+      "ve": "50 Stk",
+      "link": "https://www.rittal.com/at-de_AT/products/PG20231215ZUB101/PG20240408ZUB109/PG20240409ZUB104/PRO15034?variantId=7094130"
+    },
+    {
+      "typ": "Net",
+      "bild": "10.png",
+      "hersteller": "Rittal",
+      "name": "19Zoll-Fastener, 1 HE mit Kontaktierung",
+      "artikelnummer": "DK 2090000",
+      "ve": "24 Stk",
+      "link": "https://www.rittal.com/at-de_AT/products/PG20231215ZUB101/PG20240404ZUB101/PG2024040ZUB102/PRO63039?variantId=2090000"
+    },
+    {
+      "typ": "Net",
+      "bild": "11.png",
+      "hersteller": "Rittal",
+      "name": "Anreihverbinder, außen für TS/TS",
+      "artikelnummer": "TS 8800490",
+      "ve": "6 Stk",
+      "link": "https://www.rittal.com/de-de/products/PG20231215ZUB101/PG20240320ZUB103/PRO13747?variantId=8800490"
+    },
+    {
+      "typ": "Net",
+      "bild": "12.png",
+      "hersteller": "Rittal",
+      "name": "Montageplatte EDV",
+      "artikelnummer": "TS 8612410",
+      "ve": "4 Stk",
+      "link": "https://www.rittal.com/de-de/products/PG20231215ZUB101/PG20240403ZUB102/PG20240403ZUB107/PRO14242?variantId=8612410"
+    },
+    {
+      "typ": "Net",
+      "bild": "13.png",
+      "hersteller": "Rittal",
+      "name": "Kombischiene für VX, VX IT, TX CableNet",
+      "artikelnummer": "VX 5302021",
+      "ve": "4 Stk",
+      "link": "https://www.rittal.com/de-de/products/PG20231215ZUB101/PG20240405ZUB003/PG20240405ZUB008/PRO108770?variantId=5302021"
+    },
+    {
+      "typ": "Net",
+      "bild": "14.png",
+      "hersteller": "Rittal",
+      "name": "Erweiterungs-Set Erdung/Potenzialausgleich",
+      "artikelnummer": "DK 7829150",
+      "ve": "1 Stk",
+      "link": "https://www.rittal.com/de-de/products/PG20231215ZUB101/PG2024040ZUB112/PG2024040ZUB114/PRO12118?variantId=7829150"
+    }
+  ]
