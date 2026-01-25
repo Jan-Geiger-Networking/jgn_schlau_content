@@ -124,5 +124,41 @@
       "artikelnummer": "DK 7829150",
       "ve": "1 Stk",
       "link": "https://www.rittal.com/de-de/products/PG20231215ZUB101/PG2024040ZUB112/PG2024040ZUB114/PRO12118?variantId=7829150"
+    },
+    {
+      "typ": "230",
+      "bild": "15.png",
+      "hersteller": "Gira",
+      "name": "SCHUKO-Steckdose 16 A 250 V",
+      "artikelnummer": "4188 03",
+      "ve": "10 Stk",
+      "link": "https://katalog.gira.de/de_DE/datenblatt.html?id=802978"
+    },
+    {
+      "typ": "230",
+      "bild": "16.png",
+      "hersteller": "Gira",
+      "name": "Abdeckrahmen 1-fach Standard 55 Reinweiß glänzend",
+      "artikelnummer": "0211 03",
+      "ve": "10 Stk",
+      "link": "https://katalog.gira.de/de_DE/datenblatt.html?id=623824&car=1"
+    },
+    {
+      "typ": "230",
+      "bild": "17.png",
+      "hersteller": "Gira",
+      "name": "Abdeckrahmen 2-fach Standard 55 Reinweiß glänzend",
+      "artikelnummer": "0212 03",
+      "ve": "10 Stk",
+      "link": "https://katalog.gira.de/de_DE/datenblatt.html?id=623824&car=1"
+    },
+    {
+      "typ": "Net",
+      "bild": "18.png",
+      "hersteller": "Gira",
+      "name": "Abdeckrahmen 3-fach Standard 55 Reinweiß glänzend",
+      "artikelnummer": "0213 03",
+      "ve": "10 Stk",
+      "link": "https://katalog.gira.de/de_DE/datenblatt.html?id=623824&car=1"
     }
   ]
