@@ -160,5 +160,32 @@
       "artikelnummer": "0213 03",
       "ve": "10 Stk",
       "link": "https://katalog.gira.de/de_DE/datenblatt.html?id=623824&car=1"
+    },
+    {
+      "typ": "SiBe",
+      "bild": "19.png",
+      "hersteller": "Inotec",
+      "name": "Piktogrammscheibe 1016 PL /PR 10mm",
+      "artikelnummer": "101457855",
+      "ve": "1 Stk",
+      "link": "https://www.inotec-licht.de/assets/pdf/DATA_SNP_1016.2_LED_24V.pdf"
+    },
+    {
+      "typ": "SiBe",
+      "bild": "19.png",
+      "hersteller": "Inotec",
+      "name": "Piktogrammscheibe 1016 PR /ws 10mm",
+      "artikelnummer": "101456946",
+      "ve": "1 Stk",
+      "link": "https://www.inotec-licht.de/assets/pdf/DATA_SNP_1016.2_LED_24V.pdf"
+    },
+    {
+      "typ": "SiBe",
+      "bild": "19.png",
+      "hersteller": "Inotec",
+      "name": "Piktogrammscheibe 1016 PL /ws 10mm",
+      "artikelnummer": "101456845",
+      "ve": "1 Stk",
+      "link": "https://www.inotec-licht.de/assets/pdf/DATA_SNP_1016.2_LED_24V.pdf"
     }
   ]
