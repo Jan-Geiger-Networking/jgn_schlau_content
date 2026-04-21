@@ -187,5 +187,184 @@
       "artikelnummer": "101456845",
       "ve": "1 Stk",
       "link": "https://www.inotec-licht.de/assets/pdf/DATA_SNP_1016.2_LED_24V.pdf"
+    },
+    {
+      "typ": "SiBe",
+      "bild": "20.png",
+      "hersteller": "Inotec",
+      "name": "Haube 2130 inkl. Piktosatz PU/PL/PR",
+      "artikelnummer": "102381678",
+      "ve": "1 Stk",
+      "link": "https://inotec-licht.ch/de/shop/102381678"
+    },
+    {
+      "typ": "Net",
+      "bild": "21.png",
+      "hersteller": "Planet",
+      "name": "100/1000BASE-X to 10/100/1000BASE-T PoE+ Media Converter",
+      "artikelnummer": "GTP-805A",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "SiBe",
+      "bild": "22.png",
+      "hersteller": "Inotec",
+      "name": "Piktogrammscheibe 7x35 PU SNP 7135",
+      "artikelnummer": "101948313",
+      "ve": "1 Stk",
+      "link": "https://www.inotec-licht.de/assets/pdf/DATA_SNP_7135_LED_24V.pdf"
+    },
+    {
+      "typ": "SiBe",
+      "bild": "23.png",
+      "hersteller": "Inotec",
+      "name": "Piktogrammscheibe 7x35 PR SNP 7135",
+      "artikelnummer": "101948111",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "SiBe",
+      "bild": "24.png",
+      "hersteller": "Inotec",
+      "name": "Piktogrammscheibe 7x35 PL SNP 7135",
+      "artikelnummer": "101948212",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "SiBe",
+      "bild": "25.png",
+      "hersteller": "Inotec",
+      "name": "SNP 7135 Aluminiumprofilleuchte (ohne Scheiben)",
+      "artikelnummer": "101959831",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "SiBe",
+      "bild": "26.png",
+      "hersteller": "Inotec",
+      "name": "SNP 7235 D LED 24V (ohne Scheiben)",
+      "artikelnummer": "101960033",
+      "ve": "1 Stk",
+      "link": "https://inotec-licht.ch/de/print/product/7356"
+    },
+    {
+      "typ": "SiBe",
+      "bild": "27.png",
+      "hersteller": "Inotec",
+      "name": "Fassungshalter Clipsystem 1016/1018",
+      "artikelnummer": "101933660",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "Net",
+      "bild": "28.png",
+      "hersteller": "TAIFU",
+      "name": "TAIFU 54V 1,1A Netzteil",
+      "artikelnummer": "B0FKG7MT8F",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "29.png",
+      "hersteller": "Kleinhuis",
+      "name": "ES6060.3 HKL Kanalenklappe 60x60",
+      "artikelnummer": "235198",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "30.png",
+      "hersteller": "OBO",
+      "name": "Wand- und Stielausleger AW 30 FT 510mm",
+      "artikelnummer": "6419798",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "31.png",
+      "hersteller": "Gira",
+      "name": "Abdeckung für Schnurableitung",
+      "artikelnummer": "027403",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "32.png",
+      "hersteller": "Gira",
+      "name": "Einsatz Schnurableitung 5-polig",
+      "artikelnummer": "040000",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "33.png",
+      "hersteller": "Spelsberg",
+      "name": "Spelsberg Abzweigdose 12 Loch",
+      "artikelnummer": "34571201",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "34.png",
+      "hersteller": "Mean Well",
+      "name": "Steckernetzteil, 30 W, 15 V, 2 A, medical",
+      "artikelnummer": "MW NGE30E15-P1J",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "35.png",
+      "hersteller": "Schneider Electric",
+      "name": "NSYDPA44 Plantasche, Kunststoff, DIN A4",
+      "artikelnummer": "01446155",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "36.png",
+      "hersteller": "ABB",
+      "name": "F204 B-63/0.03 FI 4Pol Typ B 63A 30mA N Links",
+      "artikelnummer": "--",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "37.png",
+      "hersteller": "ABB",
+      "name": "F204 B-40/0.03 FI 4Pol Typ B 40A 30mA N Links",
+      "artikelnummer": "-",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "38.png",
+      "hersteller": "ABB",
+      "name": "FI/LS Typ B 30mA B16A N Rechts",
+      "artikelnummer": "---",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "Net",
+      "bild": "39.png",
+      "hersteller": "Telegärtner",
+      "name": "Patchkabel S/FTP, Cat.6A, LSOH, grau, 2 m",
+      "artikelnummer": "100008262",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "40.png",
+      "hersteller": "Gossen Metrawatt",
+      "name": "Komp. Akku-Pack, verschweißt (Rexel 4033344)",
+      "artikelnummer": "Z502H",
+      "ve": "1 Stk"
+    },
+    {
+      "typ": "230",
+      "bild": "41.png",
+      "hersteller": "Fluke",
+      "name": "50M RD Erdungskabelrolle",
+      "artikelnummer": "4343754",
+      "ve": "1 Stk"
     }
   ]
