@@ -30543,5 +30543,158 @@
     "artikelnummer": "BA750364",
     "ve": "1 Stk",
     "link": "https://inotec-licht.ch/de/shop/ba750364"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3330.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme mit Hebeln; für alle Leiterarten; max. 4 mm²; 3 Leiter; Gehäusefarbe transparent; Umgebungstemperatur max. 85 °C (T85); 4,00 mm²; transparent",
+    "artikelnummer": "221-413",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-mit-hebeln/p/221-413"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3331.jpg",
+    "hersteller": "WAGO",
+    "name": "Durchgangsverbinder mit Hebeln; für alle Leiterarten; max. 4 mm²; 2 Leiter; Gehäusefarbe transparent; Deckelfarbe transparent; Umgebungstemperatur max. 85 °C (T85); 4,00 mm²; transparent",
+    "artikelnummer": "221-2411",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/durchgangsverbinder-mit-hebeln/p/221-2411"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3332.jpg",
+    "hersteller": "WAGO",
+    "name": "Durchgangsverbinder mit Hebeln; für alle Leiterarten; max. 4 mm²; 2 Leiter; Gehäusefarbe transparent; Deckelfarbe weiß; Umgebungstemperatur max. 85 °C (T85); 4,00 mm²; transparent",
+    "artikelnummer": "221-2401",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/durchgangsverbinder-mit-hebeln/p/221-2401"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3333.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme mit Hebeln; für alle Leiterarten; max. 4 mm²; 3 Leiter; Gehäusefarbe transparent; Umgebungstemperatur max. 85 °C (T85); 4,00 mm²; transparent",
+    "artikelnummer": "221-423",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-mit-hebeln/p/221-423"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3334.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme mit Hebeln; für alle Leiterarten; max. 4 mm²; 2 Leiter; Gehäusefarbe transparent; Umgebungstemperatur max. 85 °C (T85); 4,00 mm²; transparent",
+    "artikelnummer": "221-412",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-mit-hebeln/p/221-412"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3335.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme mit Hebeln; für alle Leiterarten; max. 4 mm²; 5 Leiter; Gehäusefarbe transparent; Umgebungstemperatur max. 85 °C (T85); 4,00 mm²; transparent",
+    "artikelnummer": "221-415",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-mit-hebeln/p/221-415"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3336.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme zum Stecken; für eindrähtige Leiter; max. 2,5 mm²; 3 Leiter; Gehäusefarbe transparent; Deckelfarbe orange; Umgebungstemperatur max. 60 °C (T60); 2,50 mm²; transparent",
+    "artikelnummer": "2273-203",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-zum-stecken/p/2273-203"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3337.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme zum Stecken; für eindrähtige Leiter; max. 2,5 mm²; 5 Leiter; Gehäusefarbe transparent; Deckelfarbe gelb; Umgebungstemperatur max. 60 °C (T60); 2,50 mm²; transparent",
+    "artikelnummer": "2273-205",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-zum-stecken/p/2273-205"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3338.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme zum Stecken; für eindrähtige Leiter; max. 2,5 mm²; 2 Leiter; Gehäusefarbe transparent; Deckelfarbe weiß; Umgebungstemperatur max. 60 °C (T60); 2,50 mm²; transparent",
+    "artikelnummer": "2273-202",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-zum-stecken/p/2273-202"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3339.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme mit Hebeln; für alle Leiterarten; max. 6 mm²; 3 Leiter; Gehäusefarbe transparent; Umgebungstemperatur max. 85 °C (T85); 6,00 mm²; transparent",
+    "artikelnummer": "221-613",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-mit-hebeln/p/221-613"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3340.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme mit Hebeln; für alle Leiterarten; max. 6 mm²; 2 Leiter; Gehäusefarbe transparent; Umgebungstemperatur max. 85 °C (T85); 6,00 mm²; transparent",
+    "artikelnummer": "221-612",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-mit-hebeln/p/221-612"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3341.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme zum Stecken; für eindrähtige Leiter; max. 2,5 mm²; 4 Leiter; Gehäusefarbe transparent; Deckelfarbe rot; Umgebungstemperatur max. 60 °C (T60); 2,50 mm²; transparent",
+    "artikelnummer": "2273-204",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-zum-stecken/p/2273-204"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3342.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme zum Stecken; für eindrähtige Leiter; max. 2,5 mm²; 8 Leiter; Gehäusefarbe transparent; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60 °C (T60); 2,50 mm²; transparent",
+    "artikelnummer": "2273-208",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-zum-stecken/p/2273-208"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3343.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme mit Hebeln; für alle Leiterarten; max. 6 mm²; 5 Leiter; Gehäusefarbe transparent; Umgebungstemperatur max. 85 °C (T85); 6,00 mm²; transparent",
+    "artikelnummer": "221-615",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-mit-hebeln/p/221-615"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3344.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme mit Hebeln; für alle Leiterarten; max. 4 mm²; 10 Leiter; Gehäusefarbe transparent; Umgebungstemperatur max. 85 °C (T85); 4,00 mm²; transparent",
+    "artikelnummer": "221-420",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-mit-hebeln/p/221-420"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3345.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme mit Hebeln; für alle Leiterarten; max. 4 mm²; 2 Leiter; Gehäusefarbe transparent; Umgebungstemperatur max. 85 °C (T85); 4,00 mm²; transparent",
+    "artikelnummer": "221-422",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-mit-hebeln/p/221-422"
+  },
+  {
+    "typ": "Wago",
+    "bild": "3346.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme mit Hebeln; für alle Leiterarten; max. 4 mm²; 5 Leiter; Gehäusefarbe transparent; Umgebungstemperatur max. 85 °C (T85); 4,00 mm²; transparent",
+    "artikelnummer": "221-425",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-mit-hebeln/p/221-425"
   }
 ]
