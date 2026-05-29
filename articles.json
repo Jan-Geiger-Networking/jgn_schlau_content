@@ -66426,5 +66426,86 @@
     "artikelnummer": "8338015",
     "ve": "1 Stk",
     "link": "https://katalog.gira.de/de-DE/datenblatt/8338015"
+  },
+  {
+    "typ": "Net",
+    "bild": "7317.jpg",
+    "hersteller": "Telegärtner",
+    "name": "Parallel Presswerkzeug für AMJ/UMJ/STX Module; MFP8",
+    "artikelnummer": "100025800",
+    "ve": "1 Stk",
+    "link": "https://www.telegaertner.com/artikel/onlinekatalog-datavoice-office/parallel-presswerkzeug-fuer-amj-umj-stx-module-mfp8-100025800"
+  },
+  {
+    "typ": "LWL",
+    "bild": "7318.png",
+    "hersteller": "METZ CONNECT",
+    "name": "OpDAT Pigtail LC-PC, OM4, 4 Farben LC PC",
+    "artikelnummer": "150N1JO0020E4",
+    "ve": "1 Stk",
+    "link": "https://www.metz-connect.com/home/produkte/p-cabling/kabel-und-leitungen/lwl-pigtails.e1.de.html?id=150N1JO0020XX"
+  },
+  {
+    "typ": "LWL",
+    "bild": "7319.jpg",
+    "hersteller": "Friedl",
+    "name": "LWL Inline Glasfaser Muffe bis 24 Fasern FDM1-FO M16",
+    "artikelnummer": "FJC-FR-FDM1-FO",
+    "ve": "1 Stk",
+    "link": "https://gt-netstore.de/Lichtwellenleiter/LWL-Muffen/685/Friedl-LWL-Inline-Glasfaser-Muffe-bis-24-Fasern-FDM1-FO-M16"
+  },
+  {
+    "typ": "LWL",
+    "bild": "7320.jpg",
+    "hersteller": "Polywater",
+    "name": "SqueekyKleen Kabelreiniger / Gelreiniger 0.95l Dosierflasche TC-35LF",
+    "artikelnummer": "FCL-PW-TC-35LF",
+    "ve": "1 Stk",
+    "link": "https://gt-netstore.de/lichtwellenleiter/lwl-reinigung/reinigungsfluessigkeiten/859/squeekykleen-kabelreiniger/gelreiniger-0.95l-dosierflasche-tc-35lf"
+  },
+  {
+    "typ": "LWL",
+    "bild": "7321.jpg",
+    "hersteller": "GT-Netstore",
+    "name": "LWL Spleißschutz crimp 150er Pack - CSS SSE",
+    "artikelnummer": "FAC-SPC-TK",
+    "ve": "1 Stk",
+    "link": "https://gt-netstore.de/Lichtwellenleiter/LWL-Zubehoer/Spleissschutz/1120/LWL-Spleissschutz-crimp-150er-Pack-CSS-SSE"
+  },
+  {
+    "typ": "LWL",
+    "bild": "7322.jpg",
+    "hersteller": "FS.com",
+    "name": "1,5 x 60mm LWL-Spleißschutz, Single Faser, 100 Stück/Packung",
+    "artikelnummer": "FS-1560",
+    "ve": "1 Stk",
+    "link": "https://www.fs.com/de/products/215021.html?attribute=102606&id=3665228"
+  },
+  {
+    "typ": "LWL",
+    "bild": "7323.jpg",
+    "hersteller": "FUJIKURA",
+    "name": "One-Click Cleaner 1.25mm für LC simplex / MU, LWL Reinigungsstift, Tip Pen, OCC-B",
+    "artikelnummer": "MU/LC-CLK-C",
+    "ve": "1 Stk",
+    "link": "https://gt-netstore.de/FUJIKURA-One-Click-Cleaner-1.25mm-fuer-LC-simplex-MU-LWL-Reinigungsstift-Tip-Pen-OCC-B/FCL-FU-MULC-CLK-C"
+  },
+  {
+    "typ": "LWL",
+    "bild": "7324.jpg",
+    "hersteller": "Sticklers / Microcare",
+    "name": "MultiTask Surface Cleaner getränkte Reinigungstücher im Spender",
+    "artikelnummer": "MCC-MLCW",
+    "ve": "1 Stk",
+    "link": "https://gt-netstore.de/Sticklers-MultiTask-Surface-Cleaner-getraenkte-Reinigungstuecher-im-Spender/FCL-ST-MLCW"
+  },
+  {
+    "typ": "LWL",
+    "bild": "7325.jpg",
+    "hersteller": "GT-Netstore",
+    "name": "LC Pigtail 50/125µm OM4, 2m, einfarbig 0,9mm",
+    "artikelnummer": "FPT-LC-54",
+    "ve": "1 Stk",
+    "link": "https://gt-netstore.de/Lichtwellenleiter/LWL-Pigtails/LC-Pigtails/61/LC-Pigtail-50/125-m-OM4-2m-einfarbig"
   }
 ]
