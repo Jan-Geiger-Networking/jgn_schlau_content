@@ -66507,5 +66507,149 @@
     "artikelnummer": "FPT-LC-54",
     "ve": "1 Stk",
     "link": "https://gt-netstore.de/Lichtwellenleiter/LWL-Pigtails/LC-Pigtails/61/LC-Pigtail-50/125-m-OM4-2m-einfarbig"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7326.jpg",
+    "hersteller": "WAGO",
+    "name": "4-Leiter-Buchsenklemme; PUSH WIRE®; Ø 0,8 mm; Rastermaß 5,75 mm; 2-polig; für Einzellötstifte; für KNX; dunkelgrau/rot",
+    "artikelnummer": "243-211",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/4-leiter-buchsenklemme/p/243-211"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7327.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme zum Stecken; für eindrähtige Leiter; Ø max. 0,8 mm; 4 Leiter; Gehäusefarbe dunkelgrau; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60°C; 0,80 mm²; dunkelgrau",
+    "artikelnummer": "243-204",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-zum-stecken/p/243-204"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7328.jpg",
+    "hersteller": "WAGO",
+    "name": "MICRO-Verbindungsdosenklemme; für eindrähtige Leiter; Ø max. 0,8 mm; 4 Leiter; Gehäusefarbe lichtgrau; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60°C; lichtgrau",
+    "artikelnummer": "243-304",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/micro-verbindungsdosenklemme/p/243-304"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7329.jpg",
+    "hersteller": "WAGO",
+    "name": "MICRO-Verbindungsdosenklemme; für eindrähtige Leiter; Ø max. 0,8 mm; 4 Leiter; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60°C; rot",
+    "artikelnummer": "243-804",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/micro-verbindungsdosenklemme/p/243-804"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7330.jpg",
+    "hersteller": "WAGO",
+    "name": "4-Leiter-Buchsenklemme; PUSH WIRE®; Ø 0,8 mm; Rastermaß 5,75 mm; 2-polig; für Einzellötstifte; für KNX; lichtgrau/gelb",
+    "artikelnummer": "243-212",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/4-leiter-buchsenklemme/p/243-212"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7331.jpg",
+    "hersteller": "WAGO",
+    "name": "MICRO-Verbindungsdosenklemme; für eindrähtige Leiter; Ø max. 0,8 mm; 4 Leiter; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60°C; gelb",
+    "artikelnummer": "243-504",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/micro-verbindungsdosenklemme/p/243-504"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7332.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme zum Stecken; für eindrähtige Leiter; Ø max. 0,8 mm; 8 Leiter; Gehäusefarbe dunkelgrau; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60°C; dunkelgrau",
+    "artikelnummer": "243-208",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-zum-stecken/p/243-208"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7333.jpg",
+    "hersteller": "WAGO",
+    "name": "MICRO-Verbindungsdosenklemme; für eindrähtige Leiter; Ø max. 0,8 mm; 8 Leiter; Gehäusefarbe lichtgrau; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60°C; lichtgrau",
+    "artikelnummer": "243-308",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/micro-verbindungsdosenklemme/p/243-308"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7334.jpg",
+    "hersteller": "WAGO",
+    "name": "MICRO-Verbindungsdosenklemme; für eindrähtige Leiter; Ø max. 0,8 mm; 8 Leiter; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60°C; rot",
+    "artikelnummer": "243-808",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/micro-verbindungsdosenklemme/p/243-808"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7335.jpg",
+    "hersteller": "WAGO",
+    "name": "MICRO-Verbindungsdosenklemme; für eindrähtige Leiter; Ø max. 0,8 mm; 8 Leiter; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60°C; gelb",
+    "artikelnummer": "243-508",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/micro-verbindungsdosenklemme/p/243-508"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7336.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemme zum Stecken; für eindrähtige Leiter; Ø max. 0,5 mm; 4 Leiter; Gehäusefarbe transparent; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60°C; transparent",
+    "artikelnummer": "243-144",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemme-zum-stecken/p/243-144"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7337.jpg",
+    "hersteller": "WAGO",
+    "name": "MICRO-Verbindungsdosenklemme; für eindrähtige Leiter; Ø max. 0,8 mm; 4 Leiter; Deckelfarbe lichtgrau; Umgebungstemperatur max. 60°C; 0,80 mm²; dunkelgrau",
+    "artikelnummer": "243-9294",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/micro-verbindungsdosenklemme/p/243-9294_995-020"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7338.jpg",
+    "hersteller": "WAGO",
+    "name": "Befestigungsadapter; für 6 Steckplätze; Serie 243; zur Montage auf TS 35/Schraubmontage; orange",
+    "artikelnummer": "243-113",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/befestigungsadapter/p/243-113"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7339.jpg",
+    "hersteller": "WAGO",
+    "name": "Befestigungsadapter; für 4 Steckplätze; Serie 243; zur Montage auf TS 35/Schraubmontage; orange",
+    "artikelnummer": "243-112",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/befestigungsadapter/p/243-112"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7340.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemmenset; L-BOXX® Mini; Serien 221, 2273, 773, 224, 243",
+    "artikelnummer": "887-950",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemmenset/p/887-950"
+  },
+  {
+    "typ": "Wago",
+    "bild": "7341.jpg",
+    "hersteller": "WAGO",
+    "name": "Verbindungsklemmenset; L-BOXX® 102; Serien 221, 2273, 773, 224, 243",
+    "artikelnummer": "887-925",
+    "ve": "1 Stk",
+    "link": "https://www.wago.com/de/installationsklemmen/verbindungsklemmenset/p/887-925"
   }
 ]
