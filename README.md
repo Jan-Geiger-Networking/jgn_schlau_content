@@ -5,7 +5,9 @@ Artikel und Bilder für das Schlau Portal.
 ## Struktur
 
 ```
-articles.json    # Artikeldaten
+articles.json    # Artikeldaten (Bestelltool)
+rackplaner.json  # Welche Artikel der Rackplaner beim Planen anbietet — Kategorie → Artikelnummern
+RACKPLANER.md    # Anleitung dazu
 imgs/            # Produktbilder (1.png, 2.png, ...)
 ```
 
@@ -28,6 +30,10 @@ imgs/            # Produktbilder (1.png, 2.png, ...)
 
 3. Pull Request erstellen
 4. Nach Merge wird automatisch deployed
+
+## Artikel im Rackplaner anbieten
+
+`articles.json` bleibt dafür unverändert. Die Artikelnummer kommt zusätzlich in die passende Kategorie in `rackplaner.json` — direkt im Browser editierbar, Anleitung und Kategorien in [RACKPLANER.md](RACKPLANER.md). Danach im Portal **„Sync from GitHub“**; der Sync meldet unbekannte Kategorien und Nummern, die es in `articles.json` nicht gibt.
 
 ## Typen
 
